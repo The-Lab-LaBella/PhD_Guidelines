@@ -5,6 +5,7 @@ This timeline and set of resources is meant to help you through this process.
 It does not supersede any official requirements specified by the UNC Charlotte Graduate School or the Bioinformatics PhD Handbook. 
 
 Bioinformatics Handbook: https://cci.charlotte.edu/2023/08/30/bioinformatics/
+Graduate School guidelines: https://graduateschool.charlotte.edu/current-students/current-student-resources 
 
 ## Semester 1
 
@@ -300,4 +301,5 @@ April 21st - Submit Survey of Earned Doctorates
 
 
 # Missing Milestones - What happens?
+
 
