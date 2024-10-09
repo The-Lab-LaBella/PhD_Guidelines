@@ -286,17 +286,17 @@ Hooray!!
 
 _Goal is to graduate in Spring 2024_
 
-January - Take the formatting workshop and begin crafting the dissertation 
-End January - Start to schedule your defense for _before_ April 9th
-February 13th - Apply for graduation
-March 20th - Submit Dissertation to iThenticate to generate report
-March 24th - Submit Dissertation Defense Announcement
-March 24th - Send Dissertation and iThenticate report to Committee
-**April 7th - Defend Dissertation**
-April 7th - Submit Final Defense Report
-April 7th - Submit signed Dissertation Title Page
-April 21st - Submit Dissertation 
-April 21st - Submit Survey of Earned Doctorates
+- January - Take the formatting workshop and begin crafting the dissertation 
+- End January - Start to schedule your defense for _before_ April 9th
+- February 13th - Apply for graduation
+- March 20th - Submit Dissertation to iThenticate to generate report
+- March 24th - Submit Dissertation Defense Announcement
+- March 24th - Send Dissertation and iThenticate report to Committee
+- **April 7th - Defend Dissertation**
+- April 7th - Submit Final Defense Report
+- April 7th - Submit signed Dissertation Title Page
+- April 21st - Submit Dissertation 
+- April 21st - Submit Survey of Earned Doctorates
 
 
 
