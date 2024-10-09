@@ -55,6 +55,9 @@ The exact courses you will take depend on the electives you would like to take. 
 - BINF 8600 - Seminar
 
 ### Required documents and forms
+- [ ] _Goal Setting_: submitted through Canvas at the beginning of the semester & signed by PI and Student
+- [ ] _Reflection on Goals_: submitted through Canvas at the end of the semester & signed by PI and Student
+
 
 &nbsp;
 
@@ -68,7 +71,7 @@ The exact courses you will take depend on the electives you would like to take. 
 ### Required documents and forms
 - [ ] _Goal Setting_: submitted through Canvas at the beginning of the semester & signed by PI and Student
 - [ ] _Reflection on Goals_: submitted through Canvas at the end of the semester & signed by PI and Student
-- 
+  
 
 &nbsp;
 
