@@ -112,4 +112,14 @@ Once you have your date, you must e-mail Lauren Slane with the date so she can s
 After successful completion of your written exam, you will schedule your oral exam. 
 You should schedule **two hours** for the oral exam.
 
-### Step 6 - 
+### Step 6 - Create a short slide presentation
+
+At the beginning of your oral exam, you will present _a few_ slides on your proposed research. 
+This should, again be viewed as an opportunity to steer the conversation
+
+
+
+
+
+
+# Missing Milestones - What happens?
