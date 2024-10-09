@@ -81,6 +81,7 @@ The major steps are
 - [ ] Schedule your oral exam
 - [ ] Create a short slide presentation
 - [ ] Submit the Exam Report of Comprehensive/Qualifying Examination for Doctoral Students
+- [ ] Form your Dissertation Committee & Submit the form
 
 ### Step 1 - Forming your committee
 This committee must consist of only **Bioinformatics	Department	graduate	faculty**. These faculty must include the following expertise. 
@@ -115,11 +116,43 @@ You should schedule **two hours** for the oral exam.
 ### Step 6 - Create a short slide presentation
 
 At the beginning of your oral exam, you will present _a few_ slides on your proposed research. 
-This should, again be viewed as an opportunity to steer the conversation
+This should be viewed as an opportunity to steer the conversation.
 
+### Step 7 - Submit the Exam Report of Comprehensive/Qualifying Examination for Doctoral Students
 
+After successful completion of the written and oral QE you will submit this form https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=cd5e88b0-1e33-444f-a743-2bfbffb39324&env=na3&acct=59d75bd1-df03-488d-8312-f568329e13f9&v=2
 
+### Step 8 - Form your Dissertation Committee & Submit the form
+As you move into dissertation research, you should form your Dissertation Committee as soon as possible. 
+You must have a minimum of **four faculty** on this committee. 
+- Three Bioinformatics faculty
+- One Graduate School representative who is a tenured faculty member from an outside department
 
+To officially create your committee, you must fill out this form: https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=9724b83d-d6f6-4efe-8aa2-30127fc56435&env=na3&acct=59d75bd1-df03-488d-8312-f568329e13f9&v=2 
+
+&nbsp;
+
+## Semesters 4-6
+
+After you pass your QE, you will have a few semesters to conduct research before you submit your dissertation proposal. During these semesters, you will have the following obligations. 
+
+### Courses
+You should have completed the majority of your elective and required courses at this time
+- BINF 8991 - Dissertation Research
+- BINF 8600 - Seminar
+
+### Required documents and forms
+- Meet with your dissertation committee at least once a year
+
+&nbsp;
+
+## The Dissertation Proposal & Proposal Defense
+
+**MILESTONE** This milestone must be completed within two semesters after passing the QE. 
+
+The major steps are
+- [ ] Write your Proposal Defense
+- [ ] 
 
 
 # Missing Milestones - What happens?
