@@ -213,9 +213,9 @@ The major steps are
 - [ ] Attend a Formatting Workshop
 - [ ] Write your Dissertation
 - [ ] Schedule your Dissertation Defense
-- [ ] Submit Dissertation defense announcement
 - [ ] Apply for Graduation
 - [ ] Submit Dissertation to iThenticate
+- [ ] Submit Dissertation defense announcement
 - [ ] Send Dissertation and iThenticate report to the committee 2 weeks in advance
 - [ ] Create a Dissertation Defense Presentation
 - [ ] Defend the Dissertation
@@ -237,10 +237,6 @@ Buckle down and write your dissertation
 
 Schedule your dissertation defense for a 3-hour block 
 
-### Submit Dissertation Defense Announcement
-
-Once you have your date, you must announce the date **at least two weeks** prior to date of your defense. 
-
 ### Apply for Graduation
 
 The deadline to apply for graduation falls _before_ the deadline for your defense. This deadline is usually within the first six weeks of classes. 
@@ -249,13 +245,17 @@ The deadline to apply for graduation falls _before_ the deadline for your defens
 
 You _must_ submit an iThenticate report with your dissertation to your committee. It may take **up to 24 hours** to get your iThenticate report back
 
+### Submit Dissertation Defense Announcement
+
+Once you have your date, you must announce the date **at least two weeks** prior to date of your defense. 
+
 ### Send Dissertation & iThenticate to committee
 
-You _must_ send your dissertation and iThenticate report to your committee members at least two weeks in advance
+You _must_ send your dissertation and iThenticate report to your committee members at **least two weeks** in advance
 
 ### Create Dissertation Defense Presentation
 
-Craft your dissertation presentation 
+Craft your dissertation presentation. 
 
 ### Defend
 
@@ -263,12 +263,41 @@ Defend!
 
 ### Complete The Final Defense Report for the Dissertation
 
+Submit the Final Defense Report https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=5f4e1714-f924-4659-bc89-7d68648e9ac0&env=na3&acct=59d75bd1-df03-488d-8312-f568329e13f9&v=2
+
 ### Submit the signed Dissertation title page.
+
+Submit the DocuSign signed dissertation title page to your college liaison.
 
 ### Submit the Dissertation
 
+Submit your dissertation and pay the fee https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=c118702d-588b-4fcf-b4a6-0aa0c3c7af67&env=na3&acct=59d75bd1-df03-488d-8312-f568329e13f9&v=2 
+
 ### Complete the Survey of Earned Doctorates 
+
+Complete the Survey of Earned Doctorates https://sed-ncses.org/GradDateRouter.aspx
 
 ### Graduate
 
+Hooray!!
+
+## Sample Graduation Timeline
+
+_Goal is to graduate in Spring 2024_
+
+January - Take the formatting workshop and begin crafting the dissertation 
+End January - Start to schedule your defense for _before_ April 9th
+February 13th - Apply for graduation
+March 20th - Submit Dissertation to iThenticate to generate report
+March 24th - Submit Dissertation Defense Announcement
+March 24th - Send Dissertation and iThenticate report to Committee
+**April 7th - Defend Dissertation**
+April 7th - Submit Final Defense Report
+April 7th - Submit signed Dissertation Title Page
+April 21st - Submit Dissertation 
+April 21st - Submit Survey of Earned Doctorates
+
+
+
 # Missing Milestones - What happens?
+
