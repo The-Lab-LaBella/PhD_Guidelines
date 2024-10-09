@@ -19,7 +19,7 @@ The exact courses you will take depend on when you arrive. The courses you will 
 - BINF 8600 - Seminar
 
 ### Required documents and forms
-- [ ] _Research Rotation Project Submission_: submitted through Canvas at the beginning of the semester
+- [ ] _Mentor/Mentee Compact_: submitted through Canvas at the beginning of the semester
 - [ ] _Research Rotation Project Poster_: presented at the end of the semester
 - [ ] _Research Rotation Project Report_: submitted through Canvas at the end of the semester
 
@@ -38,7 +38,7 @@ The exact courses you will take depend on when you arrive. The courses you will 
 - BINF 8600 - Seminar
 
 ### Required documents and forms
-- [ ] _Research Rotation Project Submission_: submitted through Canvas at the beginning of the semester
+- [ ] _Mentor/Mentee Compact_: submitted through Canvas at the beginning of the semester
 - [ ] _Research Rotation Project Poster_: presented at the end of the semester
 - [ ] _Research Rotation Project Report_: submitted through Canvas at the end of the semester
 
@@ -56,12 +56,12 @@ The exact courses you will take depend on the electives you would like to take. 
 
 ### Required documents and forms
 - [ ] _Goal Setting_: submitted through Canvas at the beginning of the semester & signed by PI and Student
-- [ ] _Reflection on Goals_: submitted through Canvas at the end of the semester & signed by PI and Student
+- [ ] _Self Assessment_: submitted through Canvas at the end of the semester & signed by PI and Student
 
 
 &nbsp;
 
-## Semester 4-5
+## Pre QE Research Semesters (Semesters 3-5)
 
 ### Courses
 The exact courses you will take depend on the electives you would like to take. The courses you will have to enroll in, regardless are
@@ -70,7 +70,7 @@ The exact courses you will take depend on the electives you would like to take. 
 
 ### Required documents and forms
 - [ ] _Goal Setting_: submitted through Canvas at the beginning of the semester & signed by PI and Student
-- [ ] _Reflection on Goals_: submitted through Canvas at the end of the semester & signed by PI and Student
+- [ ] _Self Assessment_: submitted through Canvas at the end of the semester & signed by PI and Student
   
 
 &nbsp;
@@ -138,7 +138,7 @@ To officially create your committee, you must fill out this form: https://na3.do
 
 &nbsp;
 
-## Semesters 4-6
+## Dissertation Proposal Semesters (Semesters 5-6)
 
 After you pass your QE, you will have a few semesters to conduct research before you submit your dissertation proposal. During these semesters, you will have the following obligations. 
 
@@ -148,7 +148,9 @@ You should have completed the majority of your elective and required courses at 
 - BINF 8600 - Seminar
 
 ### Required documents and forms
-- Meet with your dissertation committee at least once a year
+- [ ] _Meet with your dissertation committee_ at least once a year
+- [ ] _Goal Setting_: submitted through Canvas at the beginning of the semester & signed by PI and Student
+- [ ] _Self Assessment_: submitted through Canvas at the end of the semester & signed by PI and Student
 
 &nbsp;
 
@@ -157,8 +159,116 @@ You should have completed the majority of your elective and required courses at 
 **MILESTONE** This milestone must be completed within two semesters after passing the QE. 
 
 The major steps are
-- [ ] Write your Proposal Defense
-- [ ] 
+- [ ] Write your Proposal 
+- [ ] Schedule your Proposal Defense
+- [ ] Send your Proposal 2 weeks before Proposal Defense
+- [ ] Create your Proposal Defense Presentation
+- [ ] Complete Proposal Defense Paperwork
 
+### Write Proposal 
+
+This proposal should be modeled after an NSF or NIH-style grant proposal. 
+You may get feedback on this proposal from your advisor, other students, or committee members. BUT, the work should remain your own. 
+
+### Schedule your Proposal Defense
+
+Schedule your proposal defense for 2-3 hours in person. 
+
+### Send your Proposal to your committee
+
+The proposal _must_ be sent via email to all committee members 2 weeks prior to the defense. 
+
+### Create your Proposal Defense Presentation
+
+This will be a summary of your proposal defense. Plan for 15-20 minutes of presentation emphasizing the three potential chapters of your dissertation. 
+
+### Post Proposal Defense Paperwork
+
+After a successful defense, the proposal defense paperwork must be signed by all members https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=da3e6609-4cd2-49f7-9b03-6895b48f7830&env=na3&acct=59d75bd1-df03-488d-8312-f568329e13f9&v=2 
+
+&nbsp;
+
+## Candidacy Research Semesters (Semesters 7 - End)
+
+After you pass your QE, you will have a few semesters to conduct research before you submit your dissertation proposal. During these semesters, you will have the following obligations. 
+
+### Courses
+You should have completed the majority of your elective and required courses at this time
+- BINF 8991 - Dissertation Research OR
+- BINF 9800 - For 5th year students and requires an academic petition
+
+### Required documents and forms
+- [ ] _Meet with your dissertation committee_ at least once a year
+- [ ] _Goal Setting_: submitted through Canvas at the beginning of the semester & signed by PI and Student
+- [ ] _Self Assessment_: submitted through Canvas at the end of the semester & signed by PI and Student
+
+
+&nbsp;
+
+## Dissertation and Dissertation Defense 
+
+**MILESTONE** This milestone must completed within nine (9) calendar years, beginning with the student’s first term in the program
+
+The major steps are
+- [ ] Attend a Formatting Workshop
+- [ ] Write your Dissertation
+- [ ] Schedule your Dissertation Defense
+- [ ] Submit Dissertation defense announcement
+- [ ] Apply for Graduation
+- [ ] Submit Dissertation to iThenticate
+- [ ] Send Dissertation and iThenticate report to the committee 2 weeks in advance
+- [ ] Create a Dissertation Defense Presentation
+- [ ] Defend the Dissertation
+- [ ] Complete The Final Defense Report for Dissertation on the day of the defense
+- [ ] Submit signed Dissertation title page. 
+- [ ] Submit your Dissertation
+- [ ] Complete the Survey of Earned Doctorates
+- [ ] GRADUATE!
+
+### Attend a Formatting Workshop
+
+The dissertation has a very specific format, and not adhering to this format will delay graduation. Take a training or watch the youtube videos https://graduateschool.charlotte.edu/current-students/thesis-and-dissertation
+
+### Write your Dissertation
+
+Buckle down and write your dissertation
+
+### Schedule your Dissertation Defense
+
+Schedule your dissertation defense for a 3-hour block 
+
+### Submit Dissertation Defense Announcement
+
+Once you have your date, you must announce the date **at least two weeks** prior to date of your defense. 
+
+### Apply for Graduation
+
+The deadline to apply for graduation falls _before_ the deadline for your defense. This deadline is usually within the first six weeks of classes. 
+
+### Submit Dissertation to iThenticate
+
+You _must_ submit an iThenticate report with your dissertation to your committee. It may take **up to 24 hours** to get your iThenticate report back
+
+### Send Dissertation & iThenticate to committee
+
+You _must_ send your dissertation and iThenticate report to your committee members at least two weeks in advance
+
+### Create Dissertation Defense Presentation
+
+Craft your dissertation presentation 
+
+### Defend
+
+Defend!
+
+### Complete The Final Defense Report for the Dissertation
+
+### Submit the signed Dissertation title page.
+
+### Submit the Dissertation
+
+### Complete the Survey of Earned Doctorates 
+
+### Graduate
 
 # Missing Milestones - What happens?
