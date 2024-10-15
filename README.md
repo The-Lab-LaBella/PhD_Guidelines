@@ -115,7 +115,9 @@ You should also include **a list of the courses you have taken**. This provides 
 
 _Do I need a pre-quals meeting with my committee?_ I will leave this up to you. It is possible to schedule a meeting with the committee where you share your work and we brainstorm potential topics for the written exam. This, however, can delay the timing of your exam as it may be difficult to get everyone in a room at the same time. You may want to speak with your committee members to see if they would like to have a pre-quals meeting. 
 
-Your committee members do not need to be present on the date of your written exam. Therefore, you should try to choose a date at least two weeks in advance. Then, email your committee members and ask them to approve the date selected. 
+Your committee members do not need to be present on the date of your written exam. Therefore, you should try to choose a date at least two weeks in advance. **The date must be Monday - Thursday** (and not a Friday). 
+
+Then, email your committee members and ask them to approve the date selected. 
 
 Once you have your date, you must e-mail Lauren Slane with the date so she can set up the Canvas site. 
 
